@@ -1,0 +1,13 @@
+#footer {
+    display: flex;
+    justify-content: space-around;
+    background: #777;
+    height: 20px;
+    padding: 10px;
+    position: fixed; /** later **/
+    margin-bottom: 0px;
+}
+
+#footer p {
+    font-size: 18px;
+}
